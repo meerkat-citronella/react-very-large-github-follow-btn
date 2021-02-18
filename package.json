@@ -1,7 +1,7 @@
 {
   "name": "react-very-large-github-follow-btn",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "main": "dist/Buttons.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
